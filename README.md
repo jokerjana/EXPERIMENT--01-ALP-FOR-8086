@@ -2,10 +2,6 @@
  ### NAME :JANARTHANAN B
  ### REG NO : 212223100014
 
-
-
-
-
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
 ## Theory 
